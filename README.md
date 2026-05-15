@@ -57,9 +57,7 @@ Technologies: React, Redux, Firebase
 Dynamic management system with search, filtering and full CRUD.
 Technologies: React, JavaScript, REST API
 
-**Gemach Management System**
-Platform for searching and managing gemachs.
-Technologies: React, C#, SQL Server
+**[Gemach Management System](https://github.com/chedvielbaz/Gemach-Management-System)** Platform for searching and managing gemachs. Technologies: React, C#, SQL Server
 
 ---
 
