@@ -53,9 +53,7 @@ Complete e-commerce platform with admin dashboard, cart,
 real-time data and Firebase authentication.
 Technologies: React, Redux, Firebase
 
-**User & Task Management System**
-Dynamic management system with search, filtering and full CRUD.
-Technologies: React, JavaScript, REST API
+[User & Task Management System](https://user-task-management-system-five.vercel.app) | [GitHub](https://github.com/chedvielbaz/User-Task-Management-System) Dynamic management system with search, filtering and full CRUD. Technologies: React, JavaScript, REST API
 
 **[Gemach Management System](https://github.com/chedvielbaz/Gemach-Management-System)** Platform for searching and managing gemachs. Technologies: React, C#, SQL Server
 
