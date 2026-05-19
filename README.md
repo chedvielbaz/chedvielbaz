@@ -48,7 +48,7 @@ Single-page lead management app with Hebrew/English RTL support.
 Fetch leads from API, archive logic, manual lead form with validation and Webhook-ready JSON output.  
 Technologies: Next.js, React, Tailwind CSS, Zod, Radix UI
 
-[**E-Commerce Management System**](e-commerce-management-system-taupe.vercel.app)
+[E-Commerce Management System](https://e-commerce-management-system-taupe.vercel.app) | [GitHub](https://github.com/chedvielbaz/E-Commerce-Management-System) Complete e-commerce platform with admin dashboard, cart, real-time data and Firebase authentication. Technologies: React, Redux, Firebase
 Complete e-commerce platform with admin dashboard, cart, 
 real-time data and Firebase authentication.
 Technologies: React, Redux, Firebase
