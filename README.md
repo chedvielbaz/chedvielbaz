@@ -1,5 +1,5 @@
 # Chedva Elbaz
-Full Stack Developer | MERN Stack | AI Integration | Problem Solver
+Full Stack Developer | MERN Stack | פותר בעיות נלהב | לומד לכל החיים
 
 📫 chedvi4158226@gmail.com • 053-415-8226
 
